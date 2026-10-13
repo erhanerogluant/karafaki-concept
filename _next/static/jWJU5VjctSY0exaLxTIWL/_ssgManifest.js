@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[lang]","\u002F[lang]\u002Fcheckout","\u002F[lang]\u002Fimprint","\u002F[lang]\u002Fprivacy","\u002F[lang]\u002Ftable"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

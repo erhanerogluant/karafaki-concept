@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:"/karafaki-concept/_next/static/chunks/1zc0w6lu9c1gy.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/karafaki-concept/_next/static/chunks/1l_kcd3rwtgu2.js"
+c:"/karafaki-concept/_next/static/chunks/1acxex8p0q703.js"
+d:I[22016,["$b","$c"],""]
+e:I[97367,["$4"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$4"],"$14"]
+16:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","section",null,{"className":"gutter flex min-h-[80svh] flex-col justify-center bg-milk pt-36 pb-28 text-ink","children":[["$","h1",null,{"className":"headline text-[clamp(3rem,7vw,6rem)]","children":"Gizlilik politikası"}],["$","p",null,{"className":"mt-8 max-w-xl text-lg leading-relaxed text-slate","children":"Bu konsept sayfanın sunucusu yoktur: girdiğiniz hiçbir şey bir yere gönderilmez. Tarayıcınızda (localStorage) yalnızca ses tercihiniz ve isterseniz demo rezervasyon bilgileri saklanır."}],"$undefined",["$","$Ld",null,{"href":"/tr","className":"btn-quiet mt-12 self-start text-cobalt","children":"Ana sayfaya dön"}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+2:[["children",{"s":"privacy","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"tr","s":[]},"h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f3f2ed"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Gizlilik politikası — KARAFAKİ"}],["$","meta","1",{"name":"description","content":"Berlin-Kreuzberg'de, Landwehrkanal kıyısında bir meyhane: rakı, el yapımı tabaklarda meze ve ateşten sıcaklar. Masanızı ayırtın."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://erhanerogluant.github.io/karafaki-concept/tr/privacy/"}],["$","link","4",{"rel":"alternate","hrefLang":"de","href":"https://erhanerogluant.github.io/karafaki-concept/de/privacy/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://erhanerogluant.github.io/karafaki-concept/en/privacy/"}],["$","link","6",{"rel":"alternate","hrefLang":"tr","href":"https://erhanerogluant.github.io/karafaki-concept/tr/privacy/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://erhanerogluant.github.io/karafaki-concept/de/privacy/"}],["$","meta","8",{"property":"og:title","content":"KARAFAKİ — Rakı · Meze · Berlin"}],["$","meta","9",{"property":"og:description","content":"Berlin-Kreuzberg'de, Landwehrkanal kıyısında bir meyhane: rakı, el yapımı tabaklarda meze ve ateşten sıcaklar. Masanızı ayırtın."}],["$","meta","10",{"property":"og:site_name","content":"KARAFAKİ"}],["$","meta","11",{"property":"og:locale","content":"tr_TR"}],["$","meta","12",{"property":"og:image","content":"https://erhanerogluant.github.io/karafaki-concept/og.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"KARAFAKİ — design concept"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"KARAFAKİ — Rakı · Meze · Berlin"}],["$","meta","19",{"name":"twitter:description","content":"Berlin-Kreuzberg'de, Landwehrkanal kıyısında bir meyhane: rakı, el yapımı tabaklarda meze ve ateşten sıcaklar. Masanızı ayırtın."}],["$","meta","20",{"name":"twitter:image","content":"https://erhanerogluant.github.io/karafaki-concept/og.png"}],["$","meta","21",{"name":"twitter:image:alt","content":"KARAFAKİ — design concept"}],["$","meta","22",{"name":"twitter:image:width","content":"1200"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","link","24",{"rel":"icon","href":"/karafaki-concept/icon.svg?icon.1h6wlbkm-0k9h.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"jWJU5VjctSY0exaLxTIWL"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"

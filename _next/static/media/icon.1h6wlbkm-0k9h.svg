@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- KARAFAKİ mark: carafe + star anise -->
+  <rect width="64" height="64" rx="6" fill="#12100d"/>
+  <g transform="translate(14.5 5) scale(0.56)" fill="none" stroke="#c2a06a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 9.5c4-2.6 16-2.6 20 0"/>
+    <path d="M25 11v22c0 8-16 16-16 34 0 14 10 23 23 23s23-9 23-23c0-18-16-26-16-34V11"/>
+    <g transform="translate(32 73)" stroke-width="2">
+      <path d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+      <path transform="rotate(45)" d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+      <path transform="rotate(90)" d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+      <path transform="rotate(135)" d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+      <path transform="rotate(180)" d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+      <path transform="rotate(225)" d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+      <path transform="rotate(270)" d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+      <path transform="rotate(315)" d="M0 -1.6C1.9 -3.6 2 -7 0 -9.6C-2 -7 -1.9 -3.6 0 -1.6Z"/>
+    </g>
+  </g>
+</svg>
